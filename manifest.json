@@ -1,23 +1,10 @@
 {
   "manifest_version": 2,
-  "version": "1.0",
-  "name": "Nucleus-Firefox",
+  "version": "1.1",
+  "name": "Nucleus",
   "theme": {
-    "images": {
-      "additional_backgrounds": [
-        "images/bg-000-5672c42860d5b06e1058dc477397f3ef.svg"
-      ]
-    },
-    "properties": {
-      "additional_backgrounds_alignment": [
-        "top"
-      ],
-      "additional_backgrounds_tiling": [
-        "repeat"
-      ]
-    },
     "colors": {
-      "toolbar": "rgb(25, 25, 27)",
+      "toolbar": "rgb(17, 17, 19)",
       "toolbar_text": "rgb(255, 255, 255)",
       "frame": "rgb(0, 0, 0)",
       "tab_background_text": "rgb(255, 255, 255)",
@@ -30,7 +17,7 @@
       "button_background_hover": "rgb(0, 0, 0)",
       "icons_attention": "rgb(0, 204, 106)",
       "icons": "rgb(255, 255, 255)",
-      "ntp_background": "rgb(0, 0, 0)",
+      "ntp_background": "rgb(25, 25, 27)",
       "ntp_text": "rgb(255, 255, 255)",
       "popup_highlight_text": "rgb(0, 0, 0)",
       "popup_highlight": "rgb(0, 204, 106)",
@@ -38,6 +25,7 @@
       "tab_background_separator": "rgb(91, 91, 91)",
       "tab_selected": "rgb(0, 0, 0)",
       "tab_text": "rgb(255, 255, 255)",
+      "toolbar_bottom_separator": "rgb(17, 17, 19)",
       "toolbar_field_border_focus": "rgb(21, 21, 23)",
       "toolbar_field_highlight": "rgb(23, 47, 76)",
       "toolbar_field_separator": "rgb(48, 48, 57)",
