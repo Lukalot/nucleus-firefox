@@ -1,2 +1,1 @@
-# nucleus-firefox
-Nucleus dark theme for Firefox.
+# Nucleus dark theme for Firefox 
